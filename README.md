@@ -37,7 +37,7 @@ The project attempted to answer the following questions via data analysis perfor
 - When do layoffs peak within a year?
 - Is there any corolation between number of layoffs in global and that in the US?
 - Top 5 industries affected the most globally?
-- Industries/Countries with most company ceased operations.
+- Industries/Countries with most companies ceased operations.
 - In which stage of the company had the most lay-offs?
 
 The insights to these questions were derived and displayed in the results section.
