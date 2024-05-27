@@ -13,7 +13,7 @@ This project aims to analyze and visualize global layoffs in the private sector 
 - [Limitations/Assumptions](#limitations/assumptions)
 
 ### Data Sources
-The layoffs dataset was sourced from https://www.kaggle.com/datasets/swaptr/layoffs-2022. You can find the raw file [layoffs_raw.csv](data/layoffs_raw.csv)
+The layoffs dataset was sourced from https://www.kaggle.com/datasets/swaptr/layoffs-2022. You can find the raw file [layoffs_raw.csv](data)
 
 ### Tools
 - SQL: For data extraction, transformation, and loading into the database.
