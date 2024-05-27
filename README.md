@@ -55,7 +55,7 @@ The subsequent visualization corroborates this observation by illustrating a cle
 <img width="678" alt="image" src="https://github.com/m0rningLight/Layoffs--Data-Analysis/assets/155348294/76419974-ca01-4445-98ff-7475045297b3">
 
 
-The rest of the visuals created as well as the 2 dashboards can be found in [Visualisations](visualisations)
+The rest of the visuals created as well as the 2 dashboards can be found in [Visualisations](Visualisations/)
 
 ### Limitations/Assumptions
 - The layoffs dataset included data spanning from 2020 to 2023. Consequently, we are unable to provide recommendations concerning chronological trends due to the limited timeframe of the data available for this analysis. For future analyses, it is essential to incorporate data on layoffs from at least the past decade to enhance the reliability and robustness of our findings.
