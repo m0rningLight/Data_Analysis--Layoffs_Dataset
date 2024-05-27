@@ -46,13 +46,16 @@ The insights to these questions were derived and displayed in the results sectio
 Tableau was used to create some visualizations and 2 dashboards providing useful insights from the layoffs performed globally between 2020-2023.
 
 <img width="680" alt="image" src="https://github.com/m0rningLight/Layoffs--Data-Analysis/assets/155348294/5a9dec7f-fe54-4baa-ac0e-33d90bf339d5">
-The above visualization shows the top 5 companies that laid off the most people every year. There is an upwards trend as the years progress with companies laying off more people every subsequent year. This visual only shows the top 5 companies and therefore cannot represent the whole market. 
-The visual below confirms the statement made above as it clearly shows an upwards trend in layoffs with time.
+
+
+The visualization above highlights the top 5 companies with the highest number of layoffs each year. An upward trend is evident, indicating that these companies have been laying off more employees progressively each year. However, it's important to note that this visual represents only the top 5 companies and does not provide a comprehensive view of the entire market.
+
+The subsequent visualization corroborates this observation by illustrating a clear upward trend in layoffs over time.
 
 <img width="678" alt="image" src="https://github.com/m0rningLight/Layoffs--Data-Analysis/assets/155348294/76419974-ca01-4445-98ff-7475045297b3">
 
 
-The rest of the visuals created as well as the 2 dashboards can be found in [Layoffs.twbx](results/Layoffs.twbx)
+The rest of the visuals created as well as the 2 dashboards can be found in [Visualisations](visualisations)
 
 ### Limitations/Assumptions
 - The layoffs dataset included data spanning from 2020 to 2023. Consequently, we are unable to provide recommendations concerning chronological trends due to the limited timeframe of the data available for this analysis. For future analyses, it is essential to incorporate data on layoffs from at least the past decade to enhance the reliability and robustness of our findings.
