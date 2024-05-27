@@ -1,0 +1,23 @@
+Year,company,No_of_layoffs,Ranking
+2020,Uber,7525,1
+2020,Booking.com,4375,2
+2020,Groupon,2800,3
+2020,Swiggy,2250,4
+2020,Airbnb,1900,5
+2021,Bytedance,3600,1
+2021,Katerra,2434,2
+2021,Zillow,2000,3
+2021,Instacart,1877,4
+2021,"WhiteHat Jr",1800,5
+2022,Meta,11000,1
+2022,Amazon,10150,2
+2022,Cisco,4100,3
+2022,Peloton,4084,4
+2022,Carvana,4000,5
+2022,Philips,4000,5
+2023,Google,12000,1
+2023,Microsoft,10000,2
+2023,Ericsson,8500,3
+2023,Amazon,8000,4
+2023,Salesforce,8000,4
+2023,Dell,6650,5
